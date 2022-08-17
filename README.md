@@ -1,8 +1,8 @@
-# Adwaita Darkish Theme for Ulauncher
+# Monochrome Theme for Ulauncher
 
-A dark theme for ULauncher to fit in with the Adwaita Dark theme.
+A dark theme for ULauncher to fit [Monochrome theme for KDE](https://gitlab.com/pwyde/monochrome-kde).
 
-![Preview](ulauncher-adwaita-darkish.png)
+![Preview](ulauncher-monochrome-theme.png)
 
 ## Installing
 
@@ -21,5 +21,5 @@ cd ~/.config/ulauncher/user-themes
 - Clone this repository
 
 ```
-git clone git@github.com:shepda/ulauncher-adwaita-darkish.git
+git clone git@github.com:patryk-mol/ulauncher-monochrome-theme.git
 ```
